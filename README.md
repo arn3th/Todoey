@@ -2,7 +2,7 @@
 
 Todoey is a simple "To-Do List" app based on the existing "ClearApp". The RealmSwift library was used for data storage.
 
-&nbsp;&nbsp;
+&nbsp;
 
 Adding new items:
 
